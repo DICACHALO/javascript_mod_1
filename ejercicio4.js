@@ -11,7 +11,7 @@ var edad = 7
 
 //Javascript actualmente no requiere punto y coma, pero por estándares y buenas prácticas es mejora utilizarla
 
-//Ejemplo con buenas prácticas
+//Otra forma de declarar variables
 nombre2 = "Neko";
 edad2 = 10;
 
